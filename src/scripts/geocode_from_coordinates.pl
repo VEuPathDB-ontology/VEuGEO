@@ -5,8 +5,8 @@
 #        or
 #        bin/geocode_from_coordinates.pl latitude,longitude
 #
-# --gadm-stem ../../../gadm-processing/gadm36       # location of gadmVV_N.{shp,dbf,...} files ("shapefile")
-# --verbose                                         # extra progress output
+# --gadm-stem ../../../gadm/gadm36       # location of gadmVV_N.{shp,dbf,...} files ("shapefile")
+# --verbose                              # extra progress output
 # --radius-degrees 0.025      # max distance in degrees to search around points that don't geocode (default = 1km)
 # --steps 10                  # number of steps with which to do the search (increasing radius at each step)
 #                             # use --steps 1 to disable the search
@@ -26,9 +26,9 @@
 # and if there's a single match that is the "admin 1" region.
 # Then check its sub-polygons to assign "admin 2" region.
 #
-# Currently just prints to standard out.
+# Currently just prints to standard out, as it's just a demo.
 #
-# It's faster once all the data is in memory.
+# It's faster for subsequent lookups once all the data is in memory.
 #
 
 use strict;
@@ -59,6 +59,7 @@ my ($lat, $long) = @ARGV;
 
 die "must give coordinates on commandline\n" unless (defined $lat);
 
+# split first arg into lat/long if necessary
 ($lat, $long) = split /\D+/, $lat unless (defined $long);
 
 die "bad coordinates provided on commandline\n"
@@ -67,16 +68,20 @@ die "bad coordinates provided on commandline\n"
 #
 # initialise the shapefiles
 #
-
 my $shapefiles = [];
 foreach my $level (0 .. 2) {
   $shapefiles->[$level] = Geo::ShapeFile->new(join '_', $gadm_stem, $level);
 }
 
-
+#
+# do a demo lookup
+#
 lookup($lat, $long, $shapefiles, $max_radius_degrees, $radius_steps);
 
 
+#
+# main lookup function
+#
 sub lookup {
   my ($lat, $long, $shapefiles, $max_radius_degrees, $radius_steps) = @_;
   my $got_geo_term;
