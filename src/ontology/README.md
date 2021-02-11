@@ -13,6 +13,7 @@ also available in Bob's home directory on yew) and a manually curated
 (https://github.com/bobular/VB-top-level-GEO) into a .obo format
 ontology file.
 
+Note that the conversion also disambiguates all placenames (quite a complex operation).
 
 # VEuGEO.obo
 
