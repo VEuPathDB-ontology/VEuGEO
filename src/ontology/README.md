@@ -25,8 +25,14 @@ Note the alt_id: field contains an ID that cross-references with GADM polygons.
 
 # Next steps
 
-- convert to OWL
+- convert individual sources to OWL
+  - top-level countries and continents
+  - GADM country,ADM1,ADM2 hierachy
+  - further manual edits
+- set up tech to merge and manually resolve issues
 - establish manual edit SOP
+
+The above should handle these scenarios
 - establish update process **if** a new GADM version is released
 - establish update process if another source of admin region polygons is adopted
 
