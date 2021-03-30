@@ -1,0 +1,295 @@
+ID,LABEL,Type,SubClass Of [NAMED],definition,has_obo_namespace,database_cross_reference,creation_date,created_by
+IAO:0000115,definition,Annotation property,,,,,,
+obo:ID_GEO0000000,Earth,Class,,Earth,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000001,Africa,Class,Earth,A continent.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000002,Asia,Class,Earth,A continent.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000003,Europe,Class,Earth,A continent.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000004,North America,Class,Earth,A continent.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000005,South America,Class,Earth,A continent.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000006,Oceania,Class,Earth,A continent.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000007,Antarctica,Class,Earth,A continent.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000008,Middle East,Class,Earth,"Region comprising of the following countries: AE,BH,CY,EG,IL,IQ,IR,JO,KW,LB,OM,PS,QA,SA,SY,TR,YE.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000009,Arabia,Class,Earth,"Region comprising of the following countries: AE,BH,KW,OM,QA,SA,YE.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000010,Northern Europe,Class,Europe,"Region comprising of the following countries: GB,SE,DK,FI,NO,IE,LT,LV,EE,IS,JE,IM,GG,FO,AX.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000011,Eastern Europe,Class,Europe,"Region comprising of the following countries: RU,UA,PL,RO,CZ,HU,BY,BG,SK,MD.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000012,Western Africa,Class,Africa,"Region comprising of the following countries: NG,GH,CI,BF,NE,ML,SN,GN,BJ,TG,SL,LR,MR,GM,GW,CV,SH.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000013,Central Africa,Class,Africa,"Region comprising of the following countries: CD,CM,AO,TD,CF,CG,GA,GQ,ST.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000014,Northern Africa,Class,Africa,"Region comprising of the following countries: EG,SD,DZ,MA,TN,LY.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000015,Eastern Africa,Class,Africa,"Region comprising of the following countries: ET,TZ,KE,UG,MZ,MG,MW,ZM,ZW,RW,SO,BI,SS,ER,MU,RE,KM,DJ,YT,SC.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000016,Northern America,Class,Earth,"Region comprising of the following countries: US,CA,BM,GL,PM.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000017,Caribbean,Class,Earth,"Region comprising of the following countries: CU,DO,HT,PR,JM,TT,GP,MQ,BS,BB,LC,CW,VI,GD,VC,AG,DM,AW,KN,KY,SX,MF,VG,TC,BQ,AI,MS,BL.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000018,Central America,Class,Earth,"Region comprising of the following countries: MX,GT,HN,SV,NI,CR,PA,BZ.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000019,Central Asia,Class,Asia,"Region comprising of the following countries: UZ,KZ,TJ,KG,TM.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000020,Eastern Asia,Class,Asia,"Region comprising of the following countries: CN,JP,KR,KP,HK,MN,MO.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000021,Southern Asia,Class,Asia,"Region comprising of the following countries: IN,PK,BD,IR,AF,NP,LK,BT,MV.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000022,South Eastern Asia,Class,Asia,"Region comprising of the following countries: ID,PH,VN,TH,MM,MY,KH,LA,SG,TL,BN.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000023,Western Asia,Class,Asia,"Region comprising of the following countries: TR,IQ,SA,YE,SY,AZ,IL,JO,AE,GE,LB,PS,AM,OM,KW,CY,QA,BH.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000024,Australia and New Zealand,Class,Oceania,"Region comprising of the following countries: AU,NZ,NF.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000025,Melanesia,Class,Oceania,"Region comprising of the following countries: PG,FJ,SB,VU,NC.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000026,Micronesia,Class,Oceania,"Region comprising of the following countries: GU,FM,KI,MH,PW,NR.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000027,Polynesia,Class,Oceania,"Region comprising of the following countries: WS,TO,CK,WF,TV,NU,TK,PN.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000028,Southern Africa,Class,Africa,"Region comprising of the following countries: ZA,NA,BW,LS,SZ.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000029,Southern Europe,Class,Europe,"Region comprising of the following countries: IT,ES,GR,PT,RS,BA,HR,AL,MK,SI,ME,MT,AD,SM,GI,VA.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000030,Western Europe,Class,Europe,"Region comprising of the following countries: DE,FR,NL,BE,AT,CH,LU,LI,MC.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000031,Caucasus Region,Class,Western Asia,"Region comprising of the following countries: AM,AZ,GE.",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000032,Rwanda,Class,Eastern Africa,"Rwanda is a sovereign state in central and east Africa and one of the smallest countries on the African mainland. Located a few degrees south of the Equator, Rwanda is bordered by Uganda, Tanzania, Burundi and the Democratic Republic of the Congo [Wikipedia].",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000033,Somalia,Class,Eastern Africa,"Somalia is a country located in the Horn of Africa. It is bordered by Ethiopia to the west, Djibouti to the northwest, the Gulf of Aden to the north, the Indian Ocean to the east, and Kenya to the southwest [Wikipedia].",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000034,Tanzania,Class,Eastern Africa,"Tanzania is a country in Eastern Africa within the African Great Lakes region. It is bordered by Kenya and Uganda to the north; Rwanda, Burundi, and the Democratic Republic of the Congo to the west; Zambia, Malawi, and Mozambique to the south; and by the Indian Ocean to the east [Wikipedia].",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000035,Kenya,Class,Eastern Africa,"Kenya is a country in East Africa, bordered by Tanzania to the south and southwest, Uganda to the west, South Sudan to the north-west, Ethiopia to the north and Somalia to the north-east [Wikipedia].",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000036,Democratic Republic of the Congo,Class,Central Africa,"The Democratic Republic of the Congo is a country located in Central Africa. From 1971 to 1997 it was named, and is sometimes still called, Zaire, and from 1908 to 1960 it was called the Belgian Congo. The DRC borders the Central African Republic, and South Sudan to the north; Uganda, Rwanda, Burundi and Tanzania to the east; Zambia and Angola to the south; the Republic of the Congo to the west and the Atlantic Ocean to the southwest [Wikipedia].",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000037,Djibouti,Class,Eastern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000038,Uganda,Class,Eastern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000039,Central African Republic,Class,Central Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000040,Seychelles,Class,Eastern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000041,Ethiopia,Class,Eastern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000042,Eritrea,Class,Eastern Africa,A State within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000043,Egypt,Class,Middle East|Northern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000044,Sudan,Class,Northern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000045,Burundi,Class,Eastern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000046,Zimbabwe,Class,Eastern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000047,Zambia,Class,Eastern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000048,Comoros,Class,Eastern Africa,A country within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000049,Malawi,Class,Eastern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000050,Lesotho,Class,Southern Africa,A Kingdom within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000051,Botswana,Class,Southern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000052,Mauritius,Class,Eastern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000053,Swaziland,Class,Southern Africa,A Kingdom within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000054,Reunion,Class,Eastern Africa,An island in the Indian Ocean.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000055,South Africa,Class,Southern Africa,A country within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000056,Mayotte,Class,Eastern Africa,An island in the Indian Ocean.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000057,Mozambique,Class,Eastern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000058,Madagascar,Class,Eastern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000059,Libya,Class,Northern Africa,A country within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000060,Cameroon,Class,Central Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000061,Senegal,Class,Western Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000062,Republic of Congo,Class,Central Africa,The Republic of Congo  is a country located in Central Africa. It is bordered by five countries: Gabon and the Atlantic Ocean to the west; Cameroon to the northwest; the Central African Republic to the northeast; the Democratic Republic of the Congo to the east and south; and the Angolan exclave of Cabinda to the southwest [Wikipedia].,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000063,Liberia,Class,Western Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000064,Côte d'Ivoire,Class,Western Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000065,Ghana,Class,Western Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000066,Equatorial Guinea,Class,Central Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000067,Nigeria,Class,Western Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000068,Burkina Faso,Class,Western Africa,A country within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000069,Togo,Class,Western Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000070,Guinea-Bissau,Class,Western Africa,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000071,Mauritania,Class,Western Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000072,Benin,Class,Western Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000073,Gabon,Class,Central Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000074,Sierra Leone,Class,Western Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000075,São Tomé and Príncipe,Class,Central Africa,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000076,Gambia,Class,Western Africa,A country within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000077,Guinea,Class,Western Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000078,Chad,Class,Central Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000079,Niger,Class,Western Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000080,Mali,Class,Western Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000081,Western Sahara,Class,Africa,"Western Sahara is a disputed territory in the Maghreb region of North Africa, bordered by Morocco to the north, Algeria to the northeast, Mauritania to the east and south, and the Atlantic Ocean to the west.[Wikipedia]",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000082,Tunisia,Class,Northern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000083,Morocco,Class,Northern Africa,A Kingdom within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000084,Algeria,Class,Northern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000085,Angola,Class,Central Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000086,Namibia,Class,Southern Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000087,Saint Helena,Class,Western Africa,A group of islands in the South Atlantic.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000088,Cape Verde,Class,Western Africa,A Republic within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000089,South Sudan,Class,Eastern Africa,A country within Africa.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000090,Yemen,Class,Arabia|Middle East|Western Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000091,Iraq,Class,Middle East|Western Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000092,Saudi Arabia,Class,Arabia|Middle East|Western Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000093,Iran,Class,Middle East|Southern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000094,Syria,Class,Middle East|Western Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000095,Armenia,Class,Caucasus Region,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000096,Jordan,Class,Middle East|Western Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000097,Lebanon,Class,Middle East|Western Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000098,Kuwait,Class,Arabia|Middle East|Western Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000099,Oman,Class,Arabia|Middle East|Western Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000100,Qatar,Class,Arabia|Middle East|Western Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000101,Bahrain,Class,Arabia|Middle East|Western Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000102,United Arab Emirates,Class,Arabia|Middle East|Western Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000103,Israel,Class,Middle East|Western Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000104,Turkey,Class,Middle East|Western Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000105,Azerbaijan,Class,Caucasus Region,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000106,Georgia,Class,Caucasus Region,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000107,Afghanistan,Class,Southern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000108,Pakistan,Class,Southern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000109,Bangladesh,Class,Southern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000110,Turkmenistan,Class,Central Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000111,Tajikistan,Class,Central Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000112,Sri Lanka,Class,Southern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000113,Bhutan,Class,Southern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000114,India,Class,Southern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000115,Maldives,Class,Southern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000116,British Indian Ocean Territory,Class,Asia,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000117,Nepal,Class,Southern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000118,Myanmar,Class,South Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000119,Uzbekistan,Class,Central Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000120,Kazakhstan,Class,Central Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000121,Kyrgyzstan,Class,Central Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000122,Cocos Islands,Class,Asia,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000123,Vietnam,Class,South Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000124,Thailand,Class,South Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000125,Indonesia,Class,South Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000126,Laos,Class,South Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000127,Taiwan,Class,Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000128,Philippines,Class,South Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000129,Malaysia,Class,South Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000130,China,Class,Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000131,Hong Kong,Class,Eastern Asia,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000132,Brunei,Class,South Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000133,Macao,Class,Eastern Asia,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000134,Cambodia,Class,South Eastern Asia,A Kingdom within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000135,South Korea,Class,Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000136,Japan,Class,Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000137,North Korea,Class,Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000138,Singapore,Class,South Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000139,Mongolia,Class,Eastern Asia,A country within Asia.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000140,Christmas Island,Class,Asia,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000141,Palestina,Class,Middle East|Western Asia,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000142,Cyprus,Class,Middle East|Southern Europe,Cyprus is an island country in the Eastern Mediterranean.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000143,Greece,Class,Southern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000144,Estonia,Class,Northern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000145,Latvia,Class,Northern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000146,Lithuania,Class,Northern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000147,Svalbard and Jan Mayen,Class,Northern Europe,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000148,Svalbard,Class,Svalbard and Jan Mayen,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000149,Jan Mayen,Class,Svalbard and Jan Mayen,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000150,Moldova,Class,Eastern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000151,Belarus,Class,Eastern Europe,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000152,Finland,Class,Northern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000153,Åland,Class,Northern Europe,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000154,Ukraine,Class,Eastern Europe,"Ukraine is a sovereign state in Eastern Europe,[8] bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast, respectively. [Wikipedia]",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000155,Macedonia,Class,Southern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000156,Hungary,Class,Eastern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000157,Bulgaria,Class,Eastern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000158,Albania,Class,Southern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000159,Poland,Class,Eastern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000160,Romania,Class,Eastern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000161,Kosovo,Class,Southern Europe,A Republic within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000162,Russia,Class,Eastern Europe,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000163,Portugal,Class,Southern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000164,Gibraltar,Class,Southern Europe,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000165,Spain,Class,Southern Europe,A Kingdom within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000166,Malta,Class,Southern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000167,Faroe Islands,Class,Northern Europe,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000168,Denmark,Class,Northern Europe,A Kingdom within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000169,Iceland,Class,Northern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000170,United Kingdom,Class,Northern Europe,A Kingdom within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000171,Switzerland,Class,Western Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000172,Sweden,Class,Northern Europe,A Kingdom within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000173,Netherlands,Class,Western Europe,A Kingdom within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000174,Austria,Class,Western Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000175,Belgium,Class,Western Europe,A Kingdom within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000176,Germany,Class,Western Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000177,Luxembourg,Class,Western Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000178,Ireland,Class,Northern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000179,Monaco,Class,Western Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000180,France,Class,Western Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000181,Andorra,Class,Southern Europe,A Principality within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000182,Liechtenstein,Class,Western Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000183,Jersey,Class,Northern Europe,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000184,Isle of Man,Class,Northern Europe,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000185,Guernsey,Class,Northern Europe,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000186,Slovakia,Class,Eastern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000187,Czech Republic,Class,Eastern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000188,Norway,Class,Northern Europe,A Kingdom within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000189,Vatican City,Class,Southern Europe,A State within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000190,San Marino,Class,Southern Europe,A Republic within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000191,Italy,Class,Southern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000192,Slovenia,Class,Southern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000193,Montenegro,Class,Southern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000194,Croatia,Class,Southern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000195,Bosnia and Herzegovina,Class,Southern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000196,Serbia,Class,Southern Europe,A country within Europe.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000197,British Virgin Islands,Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000198,Barbados,Class,Caribbean|North America,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000199,Saint Pierre and Miquelon,Class,North America|Northern America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000200,Greenland,Class,North America|Northern America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000201,Jamaica,Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000202,Dominican Republic,Class,Caribbean|North America,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000203,Cuba,Class,Caribbean|North America,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000204,Martinique,Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000205,Bahamas,Class,Caribbean|North America,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000206,Bermuda,Class,North America|Northern America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000207,Anguilla,Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000208,Trinidad and Tobago,Class,Caribbean|North America,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000209,Saint Kitts and Nevis,Class,Caribbean|North America,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000210,Dominica,Class,Caribbean|North America,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000211,Antigua and Barbuda,Class,Caribbean|North America,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000212,Saint Lucia,Class,Caribbean|North America,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000213,Aruba,Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000214,Saint Vincent and the Grenadines,Class,Caribbean|North America,A country within .,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000215,Saint-Martin,Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000216,Saint-Barthélemy,Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000217,Guadeloupe,Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000218,Turks and Caicos Islands,Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000219,Montserrat,Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000220,Grenada,Class,Caribbean|North America,A island within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000221,Cayman Islands,Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000222,Belize,Class,Central America|North America,A Republic within Central America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000223,El Salvador,Class,Central America|North America,A Republic within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000224,Guatemala,Class,Central America|North America,A Republic within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000225,Honduras,Class,Central America|North America,A Republic within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000226,Nicaragua,Class,Central America|North America,A Republic within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000227,Costa Rica,Class,Central America|North America,A Republic within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000228,Panama,Class,Central America|North America,A Republic within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000229,Haiti,Class,Caribbean|North America,A Republic within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000230,Mexico,Class,Central America|North America,A country within Central America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000231,Puerto Rico,Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000232,"Virgin Islands, U.S.",Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000233,Canada,Class,North America|Northern America,A country within North America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000234,United States,Class,North America|Northern America,A country within North America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000235,Sint Maarten,Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000236,Curaçao,Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000237,"Bonaire, Sint Eustatius and Saba",Class,Caribbean|North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000238,Netherlands Antilles,Class,North America,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000239,Guyana,Class,South America,A country within South America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000240,French Guiana,Class,South America,A French dependency in South America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000241,Suriname,Class,South America,A country within South America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000242,Paraguay,Class,South America,A country within South America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000243,Uruguay,Class,South America,A country within South America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000244,Brazil,Class,South America,A country within South America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000245,Falkland Islands,Class,South America,A Dependency in the South Atlantic.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000246,Venezuela,Class,South America,A country within South America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000247,Ecuador,Class,South America,A country within South America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000248,Colombia,Class,South America,A country within South America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000249,Argentina,Class,South America,A country within South America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000250,Chile,Class,South America,A country within South America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000251,Bolivia,Class,South America,A country within South America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000252,Peru,Class,South America,A country within South America.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000253,Palau,Class,Micronesia,An island Republic in the Pacific Ocean.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000254,Cook Islands,Class,Polynesia,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000255,Timor-Leste,Class,Oceania|South Eastern Asia,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000256,Australia,Class,Australia and New Zealand,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000257,Marshall Islands,Class,Micronesia,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000258,Federated States of Micronesia,Class,Micronesia,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000259,Papua New Guinea,Class,Melanesia,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000260,Solomon Islands,Class,Melanesia,A country within Oceania.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000261,Tuvalu,Class,Polynesia,A country within Oceania.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000262,Nauru,Class,Micronesia,A country within Oceania.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000263,Vanuatu,Class,Melanesia,A country within .,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000264,New Caledonia,Class,Melanesia,Nouvelle-Caledonie.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000265,Norfolk Island,Class,Australia and New Zealand,Island.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000266,New Zealand,Class,Australia and New Zealand,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000267,Fiji,Class,Melanesia,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000268,French Polynesia,Class,Oceania,Polynesie Francaise.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000269,Pitcairn Islands,Class,Polynesia,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000270,Kiribati,Class,Micronesia,Gilbert Islands.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000271,Tokelau,Class,Polynesia,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000272,Tonga,Class,Polynesia,A country within ,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000273,Wallis and Futuna,Class,Polynesia,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000274,Samoa,Class,Polynesia,A country within .,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000275,Niue,Class,Polynesia,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000276,Northern Mariana Islands,Class,Oceania,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000277,Guam,Class,Micronesia,"Guam is a U.S. island territory in Micronesia, in the Western Pacific. [Wikipedia]",GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000278,United States Minor Outlying Islands,Class,Oceania,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000279,American Samoa,Class,Oceania,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0000280,French Southern Territories,Class,Antarctica,.,GeoNames,,2017-02-17T00:00:00Z,lawson
+obo:ID_GEO0002000,Northern Cyprus,Class,Middle East|Southern Europe,,GeoNames,,,
+oboInOwl:auto-generated-by,,Annotation property,,,,,,
+oboInOwl:created_by,,Annotation property,,,,,,
+oboInOwl:creation_date,,Annotation property,,,,,,
+oboInOwl:date,,Annotation property,,,,,,
+oboInOwl:default-namespace,,Annotation property,,,,,,
+oboInOwl:hasDbXref,database_cross_reference,Annotation property,,,,,,
+oboInOwl:hasOBOFormatVersion,has_obo_format_version,Annotation property,,,,,,
+oboInOwl:hasOBONamespace,has_obo_namespace,Annotation property,,,,,,
+oboInOwl:id,,Annotation property,,,,,,
+oboInOwl:saved-by,,Annotation property,,,,,,
+rdfs:label,,Annotation property,,,,,,
