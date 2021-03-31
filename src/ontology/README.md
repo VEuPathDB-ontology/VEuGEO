@@ -23,6 +23,21 @@ VEuGEO.obo was generated trivially by replacing VBGEO with VEuGEO with
 
 Note the alt_id: field contains an ID that cross-references with GADM polygons.
 
+# GADM-only-disambiguated.obo
+
+Created with this version of [gadm-to-obo.pl](https://github.com/bobular/GADM-to-OBO/blob/8a83f09b5c82dcdb34c566eefbd4d2131462ed04/gadm-to-obo.pl)
+
+using default options and "gadm36".
+
+
+GADM place types are provided in OBO comment fields, and can be grepped and sorted with
+
+```
+grep "GADM ADM" GADM-only-disambiguated.obo | sort -u > GADM-English-ADM-types.txt
+```
+
+And [that file](./GADM-English-ADM-types.txt) is added to the repository too.
+
 # Next steps
 
 - convert individual sources to OWL

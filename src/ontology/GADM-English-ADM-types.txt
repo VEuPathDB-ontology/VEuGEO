@@ -1,0 +1,218 @@
+comment: GADM ADM0 TYPE: Not provided, assumed 'country'
+comment: GADM ADM1 TYPE: 
+comment: GADM ADM1 TYPE: Administrative Area
+comment: GADM ADM1 TYPE: Administrative subdivisions
+comment: GADM ADM1 TYPE: Arrondissement
+comment: GADM ADM1 TYPE: Atoll
+comment: GADM ADM1 TYPE: Autonomous City
+comment: GADM ADM1 TYPE: Autonomous Commune
+comment: GADM ADM1 TYPE: Autonomous Community
+comment: GADM ADM1 TYPE: Autonomous district
+comment: GADM ADM1 TYPE: Autonomous island
+comment: GADM ADM1 TYPE: Autonomous Island
+comment: GADM ADM1 TYPE: Autonomous Province
+comment: GADM ADM1 TYPE: 'Autonomous Region'
+comment: GADM ADM1 TYPE: Autonomous Region
+comment: GADM ADM1 TYPE: Autonomous Republic
+comment: GADM ADM1 TYPE: Autonomous Sector
+comment: GADM ADM1 TYPE: Autonomous Territory
+comment: GADM ADM1 TYPE: Autononous Region
+comment: GADM ADM1 TYPE: Borough
+comment: GADM ADM1 TYPE: Canton
+comment: GADM ADM1 TYPE: Capital City
+comment: GADM ADM1 TYPE: Capital District
+comment: GADM ADM1 TYPE: Capital Metropolitan City
+comment: GADM ADM1 TYPE: Capital Territory
+comment: GADM ADM1 TYPE: Centrally Administered Area
+comment: GADM ADM1 TYPE: Circuit
+comment: GADM ADM1 TYPE: City
+comment: GADM ADM1 TYPE: Commissiary
+comment: GADM ADM1 TYPE: Commune
+comment: GADM ADM1 TYPE: County
+comment: GADM ADM1 TYPE: Decentralized administration
+comment: GADM ADM1 TYPE: Department
+comment: GADM ADM1 TYPE: Dependency
+comment: GADM ADM1 TYPE: Development Region
+comment: GADM ADM1 TYPE: Directly Governed City
+comment: GADM ADM1 TYPE: District
+comment: GADM ADM1 TYPE: Division
+comment: GADM ADM1 TYPE: Economic Prefecture
+comment: GADM ADM1 TYPE: Emirate
+comment: GADM ADM1 TYPE: Entity
+comment: GADM ADM1 TYPE: Federal District
+comment: GADM ADM1 TYPE: Federal Territory
+comment: GADM ADM1 TYPE: Governorate
+comment: GADM ADM1 TYPE: Group of islands
+comment: GADM ADM1 TYPE: Independent City
+comment: GADM ADM1 TYPE: Independent Town
+comment: GADM ADM1 TYPE: Indigenous Territory
+comment: GADM ADM1 TYPE: Intendancy
+comment: GADM ADM1 TYPE: Island
+comment: GADM ADM1 TYPE: Island|Atoll
+comment: GADM ADM1 TYPE: Island Council
+comment: GADM ADM1 TYPE: Island Group
+comment: GADM ADM1 TYPE: Kingdom
+comment: GADM ADM1 TYPE: Metropolis
+comment: GADM ADM1 TYPE: Metropolitan Autonomous City
+comment: GADM ADM1 TYPE: Metropolitan City
+comment: GADM ADM1 TYPE: Municipality
+comment: GADM ADM1 TYPE: Municipality|Prefecture
+comment: GADM ADM1 TYPE: National District
+comment: GADM ADM1 TYPE: National Park
+comment: GADM ADM1 TYPE: National Territory
+comment: GADM ADM1 TYPE: Outer Islands
+comment: GADM ADM1 TYPE: Parish
+comment: GADM ADM1 TYPE: Prefecture
+comment: GADM ADM1 TYPE: Principality
+comment: GADM ADM1 TYPE: Province
+comment: GADM ADM1 TYPE: Province|Voivodeship
+comment: GADM ADM1 TYPE: Quarter
+comment: GADM ADM1 TYPE: Reef
+comment: GADM ADM1 TYPE: Region
+comment: GADM ADM1 TYPE: Republic
+comment: GADM ADM1 TYPE: Sovereign Base Area
+comment: GADM ADM1 TYPE: Special Administrative Region
+comment: GADM ADM1 TYPE: Special City
+comment: GADM ADM1 TYPE: Special Municipality
+comment: GADM ADM1 TYPE: Special Region|Zone
+comment: GADM ADM1 TYPE: State
+comment: GADM ADM1 TYPE: Statistical Region
+comment: GADM ADM1 TYPE: Territorial Unit
+comment: GADM ADM1 TYPE: Territory
+comment: GADM ADM1 TYPE: Town
+comment: GADM ADM1 TYPE: Town Council
+comment: GADM ADM1 TYPE: Union territory
+comment: GADM ADM1 TYPE: Union Territory
+comment: GADM ADM1 TYPE: Urban Prefecture
+comment: GADM ADM1 TYPE: Water body
+comment: GADM ADM2 TYPE: 
+comment: GADM ADM2 TYPE: Aboriginal Council
+comment: GADM ADM2 TYPE: Administrative Area
+comment: GADM ADM2 TYPE: Administrative County
+comment: GADM ADM2 TYPE: Administrative Region
+comment: GADM ADM2 TYPE: Administrative Zone
+comment: GADM ADM2 TYPE: Area
+comment: GADM ADM2 TYPE: Area council
+comment: GADM ADM2 TYPE: Area Outside Territorial Authority
+comment: GADM ADM2 TYPE: Arrondissement
+comment: GADM ADM2 TYPE: Assembly
+comment: GADM ADM2 TYPE: Autonomous City
+comment: GADM ADM2 TYPE: Autonomous district
+comment: GADM ADM2 TYPE: Autonomous Okurg
+comment: GADM ADM2 TYPE: Autonomous Prefecture
+comment: GADM ADM2 TYPE: Borough
+comment: GADM ADM2 TYPE: Canton
+comment: GADM ADM2 TYPE: Capital
+comment: GADM ADM2 TYPE: Capital Region
+comment: GADM ADM2 TYPE: Census Area
+comment: GADM ADM2 TYPE: Census Division
+comment: GADM ADM2 TYPE: Chef-Lieu-Wilaya
+comment: GADM ADM2 TYPE: Circle
+comment: GADM ADM2 TYPE: City
+comment: GADM ADM2 TYPE: City and Borough
+comment: GADM ADM2 TYPE: City and County
+comment: GADM ADM2 TYPE: City council
+comment: GADM ADM2 TYPE: City Municipality
+comment: GADM ADM2 TYPE: City with powiat rights
+comment: GADM ADM2 TYPE: Commune
+comment: GADM ADM2 TYPE: Commune and Prefecture
+comment: GADM ADM2 TYPE: Commune-Cotiere
+comment: GADM ADM2 TYPE: Commune|Municipality
+comment: GADM ADM2 TYPE: Conservancy
+comment: GADM ADM2 TYPE: Constituency
+comment: GADM ADM2 TYPE: Corregimiento Departamento
+comment: GADM ADM2 TYPE: County
+comment: GADM ADM2 TYPE: Delegation
+comment: GADM ADM2 TYPE: Department
+comment: GADM ADM2 TYPE: Dependency
+comment: GADM ADM2 TYPE: Distict
+comment: GADM ADM2 TYPE: District
+comment: GADM ADM2 TYPE: District Council
+comment: GADM ADM2 TYPE: District Municipality
+comment: GADM ADM2 TYPE: Districts|Municipals
+comment: GADM ADM2 TYPE: Distrito Metropolitano
+comment: GADM ADM2 TYPE: Division
+comment: GADM ADM2 TYPE: Federal District
+comment: GADM ADM2 TYPE: Federal Territory
+comment: GADM ADM2 TYPE: Governorate
+comment: GADM ADM2 TYPE: Headquarter
+comment: GADM ADM2 TYPE: Independent City
+comment: GADM ADM2 TYPE: Indigenous Territory
+comment: GADM ADM2 TYPE: Island
+comment: GADM ADM2 TYPE: Island area
+comment: GADM ADM2 TYPE: League
+comment: GADM ADM2 TYPE: Local Authority
+comment: GADM ADM2 TYPE: Local council
+comment: GADM ADM2 TYPE: Metropolitan Borough
+comment: GADM ADM2 TYPE: Metropolitan Borough (City)
+comment: GADM ADM2 TYPE: Metropolitan District
+comment: GADM ADM2 TYPE: Minor district
+comment: GADM ADM2 TYPE: Mis'ka Rada
+comment: GADM ADM2 TYPE: Mukim
+comment: GADM ADM2 TYPE: Municipal district
+comment: GADM ADM2 TYPE: Municipal District
+comment: GADM ADM2 TYPE: Municipality
+comment: GADM ADM2 TYPE: Municipal Region
+comment: GADM ADM2 TYPE: Municpality|City Council
+comment: GADM ADM2 TYPE: National Park
+comment: GADM ADM2 TYPE: Neighbourhood Democratic
+comment: GADM ADM2 TYPE: Not Classified
+comment: GADM ADM2 TYPE: Outlying Island
+comment: GADM ADM2 TYPE: Parish
+comment: GADM ADM2 TYPE: Part
+comment: GADM ADM2 TYPE: Poblacion
+comment: GADM ADM2 TYPE: Prefecture
+comment: GADM ADM2 TYPE: Prefecture City
+comment: GADM ADM2 TYPE: Province
+comment: GADM ADM2 TYPE: Provincial City
+comment: GADM ADM2 TYPE: Provincie
+comment: GADM ADM2 TYPE: Raion
+comment: GADM ADM2 TYPE: Regency
+comment: GADM ADM2 TYPE: Region
+comment: GADM ADM2 TYPE: Regional Council
+comment: GADM ADM2 TYPE: Regional County Municipality
+comment: GADM ADM2 TYPE: Regional District
+comment: GADM ADM2 TYPE: Regional Municipality
+comment: GADM ADM2 TYPE: Reserve
+comment: GADM ADM2 TYPE: Ressort
+comment: GADM ADM2 TYPE: Rural City
+comment: GADM ADM2 TYPE: Sector
+comment: GADM ADM2 TYPE: Shire
+comment: GADM ADM2 TYPE: Special Municipality
+comment: GADM ADM2 TYPE: Special Ward
+comment: GADM ADM2 TYPE: Special Woreda
+comment: GADM ADM2 TYPE: State reserve
+comment: GADM ADM2 TYPE: Statutory city
+comment: GADM ADM2 TYPE: Statutory City
+comment: GADM ADM2 TYPE: Sub-chief
+comment: GADM ADM2 TYPE: Subdistrict
+comment: GADM ADM2 TYPE: Sub-district
+comment: GADM ADM2 TYPE: Subdivision
+comment: GADM ADM2 TYPE: Sub-prefecture
+comment: GADM ADM2 TYPE: Sub-Province
+comment: GADM ADM2 TYPE: Subregion
+comment: GADM ADM2 TYPE: Sum
+comment: GADM ADM2 TYPE: Territory
+comment: GADM ADM2 TYPE: Town
+comment: GADM ADM2 TYPE: Town Council
+comment: GADM ADM2 TYPE: Town|Municipal
+comment: GADM ADM2 TYPE: Township
+comment: GADM ADM2 TYPE: Traditional Authority
+comment: GADM ADM2 TYPE: Unincorporated Area
+comment: GADM ADM2 TYPE: Unitary Authority
+comment: GADM ADM2 TYPE: Unitary Authority (City)
+comment: GADM ADM2 TYPE: Unitary Authority (County)
+comment: GADM ADM2 TYPE: Unitary District
+comment: GADM ADM2 TYPE: Unitary District (City)
+comment: GADM ADM2 TYPE: United Counties
+comment: GADM ADM2 TYPE: United County
+comment: GADM ADM2 TYPE: Unknown
+comment: GADM ADM2 TYPE: Urban
+comment: GADM ADM2 TYPE: Urban District
+comment: GADM ADM2 TYPE: Village
+comment: GADM ADM2 TYPE: Village block
+comment: GADM ADM2 TYPE: Ward
+comment: GADM ADM2 TYPE: Waterbody
+comment: GADM ADM2 TYPE: Water body
+comment: GADM ADM2 TYPE: Water Body
+comment: GADM ADM2 TYPE: Zone
