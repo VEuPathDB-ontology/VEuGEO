@@ -1,7 +1,7 @@
 #!/usr/bin/env perl
 #                 -*- mode: cperl -*-
 #
-# usage: bin/geocode_from_coordinates.pl latitude longitude
+# usage: bin/geocode_from_coordinates.pl -- latitude longitude
 #        or
 #        bin/geocode_from_coordinates.pl latitude,longitude
 #
@@ -60,7 +60,7 @@ my ($lat, $long) = @ARGV;
 die "must give coordinates on commandline\n" unless (defined $lat);
 
 # split first arg into lat/long if necessary
-($lat, $long) = split /\D+/, $lat unless (defined $long);
+($lat, $long) = split /,/, $lat unless (defined $long);
 
 die "bad coordinates provided on commandline\n"
   unless (defined $lat && defined $long && looks_like_number($lat) && looks_like_number($long));
